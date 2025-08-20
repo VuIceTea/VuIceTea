@@ -11,7 +11,7 @@ const developer = {
     name: "Nguyen Phi Vu",
     location: "TpHCM Vietnam 🇻🇳",
     role: "Full Stack Developer",
-    languages: ["JavaScript", "Nodejs", "Java"],
+    languages: ["JavaScript", "Dart", "Java"],
     technologies: {
         frontend: ["React"],
         backend: ["Node.js", "Express", "Spring Boot"],
