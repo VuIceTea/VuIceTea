@@ -60,23 +60,27 @@ const developer = {
 ### 🌟 V-Store - Modern E-commerce Platform (https://github.com/VuIceTea/v-store)
 - **Tech Stack**: Flutter, Dart, Firebase (Firestore, Authentication, Storage, Cloud Functions), VNPay Payment Gateway, Material Design 3.0
 - **Description**: A comprehensive cross-platform e-commerce application built with Flutter that delivers a modern and seamless shopping experience. The platform integrates essential features for professional online retail including product management, user authentication, payment processing, and real-time order tracking.
-- **Key Features**:
-    Multi-platform support (iOS, Android, Web, Windows, macOS, Linux)
-    Real-time product browsing with advanced search and filtering
-    Secure user authentication with multiple login options
-    Integrated payment gateway (VNPay) and multiple payment methods
-    Smart shopping cart with persistence
-    Real-time order tracking and comprehensive purchase history
-    Dark/Light mode support with responsive Material Design 3.0 UI
-    Multi-language support (Vietnamese/English)
-    Real-time notifications and updates
-- **Impact**:
-    Cross-platform deployment reducing development time by 60%
-    Modern Flutter architecture ensuring 60fps performance across all devices
-    Integrated Vietnamese payment systems increasing local user adoption
-    Real-time Firebase integration providing instant data synchronization
-    Comprehensive security implementation with multi-factor authentication
-    Scalable architecture supporting future feature expansions
+Key Features:
+
+Multi-platform support (iOS, Android, Web, Windows, macOS, Linux)
+Real-time product browsing with advanced search and filtering
+Secure user authentication with multiple login options
+Integrated payment gateway (VNPay) and multiple payment methods
+Smart shopping cart with persistence
+Real-time order tracking and comprehensive purchase history
+Dark/Light mode support with responsive Material Design 3.0 UI
+Multi-language support (Vietnamese/English)
+Real-time notifications and updates
+
+
+Impact:
+
+Cross-platform deployment reducing development time by 60%
+Modern Flutter architecture ensuring 60fps performance across all devices
+Integrated Vietnamese payment systems increasing local user adoption
+Real-time Firebase integration providing instant data synchronization
+Comprehensive security implementation with multi-factor authentication
+Scalable architecture supporting future feature expansions
 
 ## 🎯 What I'm Working On
 
