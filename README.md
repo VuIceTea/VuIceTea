@@ -1,129 +1,82 @@
-# Hi there! 👋 I'm Phi Vu
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+# Hi, I'm Nguyen Phi Vu 👋
 
-```typescript
-const developer = {
-    name: "Nguyen Phi Vu",
-    location: "TpHCM Vietnam 🇻🇳",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Dart", "Java"],
-    technologies: {
-        frontend: ["React"],
-        backend: ["Node.js", "Express", "Spring Boot"],
-        database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-        tools: ["Git", "Docker", "AWS", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+**Java Backend Developer · Flutter Developer**
 
-## 🛠️ Tech Stack
+Software Engineering graduate from Industrial University of Ho Chi Minh City, Vietnam.  
+I build backend services with Java and Spring Boot, and mobile experiences with Flutter.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VuIceTea&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VuIceTea&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuIceTea&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 Featured Projects
-
-### 🌟 V-Store - Modern E-commerce Platform (https://github.com/VuIceTea/v-store)
-- **Tech Stack**: Flutter, Dart, Firebase (Firestore, Authentication, Storage, Cloud Functions), VNPay Payment Gateway, Material Design 3.0
-- **Description**: A comprehensive cross-platform e-commerce application built with Flutter that delivers a modern and seamless shopping experience. The platform integrates essential features for professional online retail including product management, user authentication, payment processing, and real-time order tracking.
-Key Features:
-
-Multi-platform support (iOS, Android, Web, Windows, macOS, Linux)
-Real-time product browsing with advanced search and filtering
-Secure user authentication with multiple login options
-Integrated payment gateway (VNPay) and multiple payment methods
-Smart shopping cart with persistence
-Real-time order tracking and comprehensive purchase history
-Dark/Light mode support with responsive Material Design 3.0 UI
-Multi-language support (Vietnamese/English)
-Real-time notifications and updates
-
-
-Impact:
-
-Cross-platform deployment reducing development time by 60%
-Modern Flutter architecture ensuring 60fps performance across all devices
-Integrated Vietnamese payment systems increasing local user adoption
-Real-time Firebase integration providing instant data synchronization
-Comprehensive security implementation with multi-factor authentication
-Scalable architecture supporting future feature expansions
-
-## 🎯 What I'm Working On
-
-- 🔭 Currently building: **[Current Project Name]** - A [brief description]
-- 🌱 Learning: **[Technology/Skill you're learning]**
-- 👯 Looking to collaborate on: **Open source projects** and **innovative web applications**
-- 💬 Ask me about: **React, Node.js, JavaScript, or anything tech-related!**
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuIceTea&theme=redical&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
-## 🏅 Achievements & Certifications
-
-- 🎖️ **[Certification Name]** - [Issuing Organization]
-- 🏆 **[Achievement/Award]** - [Description]
-- 📜 **[Course/Training]** - [Platform/Institution]
-
-## 💡 Fun Facts
-
-- 🎮 Gaming enthusiast in my free time
-- ☕ Coffee-driven developer
-- 📚 Always reading about new technologies
-- 🎵 Love coding with music on
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phi-vu-nguyen-8a18a5371/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zozotrong123456@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[Portfolio](https://vuicetea.github.io/) · [LinkedIn](https://www.linkedin.com/in/vuicetea/) · [Email](mailto:phivu20030411@gmail.com)
 
 </div>
 
----
+## About me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VuIceTea&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+- Based in Ho Chi Minh City, Vietnam
+- Professional experience with product management, retail pricing, inventory, and cloud subscription services
+- Hands-on Flutter experience through an internship and personal e-commerce projects
+- Currently strengthening my Android development skills with Kotlin
+- Interested in opportunities where I can contribute to real products and grow with an engineering team
 
-<div align="center">
-  <i>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
+## My development toolkit
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,redis,docker" alt="Java, Spring Boot, MongoDB, Redis, Docker" />
+
+Java · Spring Boot · REST APIs · GraphQL · Spring Cloud Gateway
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,kotlin" alt="Dart, Flutter, Firebase, Kotlin" />
+
+Flutter · Dart · Firebase · Provider · MVVM · Kotlin (learning)
+
+**Web & tools**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,git,github,postman,figma" alt="TypeScript, React, Next.js, Git, GitHub, Postman, Figma" />
+
+## Project highlights
+
+### [PulseTech](https://github.com/VuIceTea/PulseTech)
+
+A technology e-commerce storefront that brings product discovery, shopping, and order management into one responsive experience. Customers can search and filter products, manage wishlists and addresses, complete checkout with VNPay, and track their orders.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend integration:** API Gateway connecting the storefront to backend services
+
+[Source code](https://github.com/VuIceTea/PulseTech) · [Live website](https://pulse-tech-beryl.vercel.app)
+
+### [V-Store](https://github.com/VuIceTea/v-store)
+
+A Flutter e-commerce application covering the shopping journey from onboarding and product discovery to checkout and order tracking. Built with Firebase for authentication, storage, and real-time data, with Provider state management and an MVVM-based architecture.
+
+**Highlights:** Product search and filters · Persistent cart · Wishlist · VNPay integration · Order history · Dark/light themes  
+**Stack:** Flutter · Dart · Firebase · Provider · MVVM
+
+[Source code & app screenshots](https://github.com/VuIceTea/v-store#-application-interface)
+
+## Work experience
+
+### Long Van — Backend Developer
+**March 2026 – Present**
+
+- Develop Java and Spring Boot services for multi-tenant product management and cloud subscriptions using GraphQL, REST APIs, MongoDB, and Redis
+- Implement retail and rental pricing, product publishing workflows, tenant-scoped access, and inventory aggregation
+- Support subscription provisioning and lifecycle management from customer orders to active services
+
+### Thien Tu Telecom — Software Development Intern
+**August 2025 – November 2025**
+
+- Contributed to **ThoTop**, a Flutter application connecting customers with air-conditioning and refrigeration technicians
+- Developed mobile features, integrated REST APIs, and worked with the team on debugging, testing, and Git-based delivery
+
+## Let's connect
+
+- **Portfolio:** [vuicetea.github.io](https://vuicetea.github.io/)
+- **Email:** [phivu20030411@gmail.com](mailto:phivu20030411@gmail.com)
+- **LinkedIn:** [Nguyen Phi Vu](https://www.linkedin.com/in/vuicetea/)
+- **Facebook:** [VuIceTea](https://www.facebook.com/vuicetea/)
+- **Instagram:** [@vuicetea](https://www.instagram.com/vuicetea/)
+
