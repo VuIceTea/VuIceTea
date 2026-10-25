@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=170&section=header&text=Nguyen%20Phi%20Vu&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUILDING%20FOR%20WEB%20%26%20MOBILE&descSize=13&descAlignY=62" width="100%" alt="Nguyen Phi Vu — building for web and mobile" />
+<img src="profile-banner.svg" width="100%" alt="Nguyen Phi Vu — building for web and mobile" />
 
 # Hi there, I'm Vu 👋
 
@@ -113,3 +113,4 @@ A Flutter e-commerce application covering the shopping journey from onboarding a
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=90&section=footer" width="100%" alt="" />
 
 </div>
+
