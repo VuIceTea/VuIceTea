@@ -4,7 +4,7 @@
 
 # Hi there, I'm Vu 👋
 
-<a href="https://vuicetea.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3800&pause=1600&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=Java+Backend+Developer+%26+Mobile+Developer;Building+APIs+%26+Mobile+Experiences;Always+Learning%2C+Always+Building" width="100%" alt="Java Backend Developer &amp; Mobile Developer" /></a>
+<a href="https://vuicetea.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3800&pause=1600&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=Java+Backend+%26+Mobile+Developer;Building+APIs+%26+Mobile+Experiences;Always+Learning%2C+Always+Building" width="100%" alt="Java Backend &amp; Mobile Developer" /></a>
 
 Software Engineering graduate from Industrial University of Ho Chi Minh City, Vietnam.  
 I build backend services with Java and Spring Boot, and mobile experiences with Flutter.
@@ -113,6 +113,7 @@ A Flutter e-commerce application covering the shopping journey from onboarding a
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=90&section=footer" width="100%" alt="" />
 
 </div>
+
 
 
 
